@@ -10,7 +10,7 @@ public class LineComparison {
         Scanner sc = new Scanner(System.in);
         double x1,x2,y1,y2;
         double lengthofLine1;
-        Scanner sc = new Scanner(System.in);
+
         System.out.println("Enter the value of x1 :");
         x1 = sc.nextInt();
         System.out.println("Enter the value of y1 :");
